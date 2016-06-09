@@ -16,7 +16,7 @@ e o resultado será:
 
 How to run this program:
 
-First clone this repository, after use the follow command: 
+First clone this repository, after use the following command: 
 
 "java Principal BASE_VALUE POTENTIATION_VALUE"
 
